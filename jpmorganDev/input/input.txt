@@ -1,0 +1,51 @@
+apple at 10p
+20 sales of apples at 10p Each
+add 20p Apples
+apple at 10p
+20 sales of apples at 10p Each
+add 20p Apples
+apple at 10p
+20 sales of apples at 10p Each
+add 20p Apples
+banana at 10p
+20 sales of bananas at 10p Each
+add 20p bananas
+banana at 10p
+20 sales of bananas at 10p Each
+add 20p bananas
+banana at 10p
+20 sales of bananas at 10p Each
+add 20p bananas
+banana at 10p
+20 sales of bananas at 10p Each
+add 20p bananas
+mango at 10p
+20 sales of mangoes at 10p Each
+add 20p mangoes
+mango at 10p
+20 sales of mangoes at 10p Each
+add 20p mangoes
+mango at 10p
+20 sales of mangoes at 10p Each
+add 20p mangoes
+mango at 10p
+20 sales of mangoes at 10p Each
+add 20p mangoes
+mango at 10p
+20 sales of mangoes at 10p Each
+add 20p mangoes
+mango at 10p
+20 sales of mangoes at 10p Each
+add 20p mangoes
+orange at 10p
+20 sales of oranges at 10p Each
+add 20p oranges
+orange at 10p
+20 sales of oranges at 10p Each
+add 20p oranges
+orange at 10p
+20 sales of oranges at 10p Each
+subtract 20p oranges
+microscope at 10p
+20 sales of microscopes at 10p Each
+add 20p oranges
